@@ -1,0 +1,12 @@
+[16:45] <E> (Line: 1, Col: 1, Idx: 0) - (Line: 1, Col: 1, Idx: 0): Exception during deserialization
+   在 YamlDotNet.Serialization.ValueDeserializers.NodeValueDeserializer.DeserializeValue(IParser parser, Type expectedType, SerializerState state, IValueDeserializer nestedObjectDeserializer)
+   在 YamlDotNet.Serialization.ValueDeserializers.AliasValueDeserializer.DeserializeValue(IParser parser, Type expectedType, SerializerState state, IValueDeserializer nestedObjectDeserializer)
+   在 YamlDotNet.Serialization.Deserializer.Deserialize(IParser parser, Type type)
+   在 YamlDotNet.Serialization.Deserializer.Deserialize[T](String input)
+   在 WithdrawerMain.Configuration.Read(String path) 位置 D:\Csharp-progs\WithdrawerDaemon\Utils.cs:行号 87
+[16:45] <W> LOAD FAILED
+[16:45] <I> Config at Version 1
+Interval 1000
+Tagets:
+eee False
+

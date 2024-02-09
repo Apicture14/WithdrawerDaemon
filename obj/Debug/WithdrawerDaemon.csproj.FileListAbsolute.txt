@@ -1,0 +1,11 @@
+D:\Csharp-progs\WithdrawerDaemon\bin\Debug\WithdrawerDaemon.exe.config
+D:\Csharp-progs\WithdrawerDaemon\bin\Debug\WithdrawerDaemon.exe
+D:\Csharp-progs\WithdrawerDaemon\bin\Debug\WithdrawerDaemon.pdb
+D:\Csharp-progs\WithdrawerDaemon\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Csharp-progs\WithdrawerDaemon\bin\Debug\YamlDotNet.NetCore.dll
+D:\Csharp-progs\WithdrawerDaemon\obj\Debug\WithdrawerDaemon.csproj.AssemblyReference.cache
+D:\Csharp-progs\WithdrawerDaemon\obj\Debug\WithdrawerDaemon.csproj.SuggestedBindingRedirects.cache
+D:\Csharp-progs\WithdrawerDaemon\obj\Debug\WithdrawerDaemon.csproj.CoreCompileInputs.cache
+D:\Csharp-progs\WithdrawerDaemon\obj\Debug\WithdrawerDaemon.csproj.CopyComplete
+D:\Csharp-progs\WithdrawerDaemon\obj\Debug\WithdrawerDaemon.exe
+D:\Csharp-progs\WithdrawerDaemon\obj\Debug\WithdrawerDaemon.pdb
